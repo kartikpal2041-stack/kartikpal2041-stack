@@ -1,37 +1,24 @@
-# Hi there, I'm Kartik Pal! 👋
+# 💫 About Me:
+📊 Data Analyst & Python Developer | Hackathon Competitor | Building Rakshak AI & Tech Solutions | Certified in Python & SQL by HackerRank 🚀
 
-A passionate and solution-driven Data Analyst and Python Developer. I specialize in turning raw data into actionable insights and building intelligent software applications. With a strong foundation in data analytics and programming, I love collaborating in hackathons and building enterprise-level tech solutions.
 
----
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kartiiikpal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kartik-pal-8099a8406/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B7uG6zlK9SHSy4entytCq8g%3D%3D) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kartikpal2041@gmail.com) 
 
-### 🚀 What I Do:
-- **Data Analytics & Engineering:** Crafting complex SQL queries, data modeling, and finding hidden patterns in data.
-- **Python Development:** Designing interactive dashboards, automation scripts, and smart backend systems.
-- **Problem Solving:** Solving algorithmic challenges and optimizing code for efficiency.
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=kartikpal2041-stack&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=kartikpal2041-stack&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=kartikpal2041-stack&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=kartikpal2041-stack&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### 🏆 Key Achievements & Certifications:
-- **HackerRank Certified:** Verified expertise in **Python (Advanced)** and **SQL** problem-solving.
-- **Hackathon Competitor:** Active participant in competitive programming and collaborative tech events, solving real-world constraints under tight deadlines.
-
----
-
-### 💻 Featured Projects:
-- **Rakshak AI (Team Project):** A forensic command center and procurement intelligence tool designed for metadata DNA tracking, digital fingerprinting, and collusion detection.
-- **Ticket Checker:** A specialized utility program designed to automate verification processes and streamline workflow efficiency.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=kartikpal2041-stack&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=kartikpal2041-stack&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🛠️ Tech Stack & Tools:
-- **Languages:** Python, SQL (PostgreSQL / MySQL)
-- **Data Analytics & Web Apps:** Streamlit, Pandas, NumPy
-- **Developer Tools:** Git, GitHub, VS Code
-
----
-
-### 🤝 Let's Connect!
-- **LinkedIn:** [https://www.linkedin.com/in/kartik-pal-8099a8406](https://www.linkedin.com/in/kartik-pal-8099a8406)
-- **Email:** kartikpal2041@gmail.com
-
-_"Believing in the power of data and clean code to solve complex security and business challenges."_
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
